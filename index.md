@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# 啊哈，商业秘密！
 
-You can use the [editor on GitHub](https://github.com/ahasecret/ahasecret/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/100820028/156491612-d89bdc85-af90-49e3-88d7-dc733e85d30c.png)
+> 与其他形式的知识产权不同，商业秘密无需在政府或监管部门注册。[只要符合保护标准，商业秘密权可自动获得](https://www.wipo.int/sme/zh/obtain_ip_rights/trade_secrets.html)。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 基本概念
 
-### Markdown
+专家提示：`商业秘密保护针对的只是不当获取。如果信息由于独立开发、反向工程、信息泄露或以其他方式被其他公司掌握，则不会受到保护。`
+此外，`商业秘密不属于独占权（如专利）`。换言之，`如果两家公司独立开发出的相同信息都符合商业秘密保护条件，两家公司都对该信息享有商业秘密权，直到其中一家或两家公司公布该信息。`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+专家提示：只要你对信息保密，商业秘密就可以永远受到保护。但是，也需要认识到：
+```
+大多数国家对商业秘密的保护普遍薄弱；
+商业秘密保护的条件和范围在不同国家有很大差异，具体取决于现有的成文法和判例法；
+法院给公司提出的保密要求可能耗费巨大人力和财力。
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 商业秘密的保护条件
 
-### Jekyll Themes
+一般来说，被认定为商业秘密需要符合三个条件：
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahasecret/ahasecret/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+秘密性：信息必须具备足够的秘密性，不为大众所知或难以收集。注意，`企业客户的个人私密信息受到隐私法的保护，而不是商业秘密法。`
+具备商业价值：`信息必须因其不为人所知（而非信息的内在价值）才为所有者带来竞争优势或某种经济利益。`
+合理措施：所有者必须采取了`合理的保密措施确保信息的秘密性。`
 
-### Support or Contact
+### 何时利用商业秘密保护
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+虽然这个问题需要视情况决定，但一般建议在以下情况下利用商业秘密保护：
+
+```
+信息可以保密20年以上（相当于专利保护期），且其他人不可能合法地独立开发出相同信息；
+秘密不能通过对产品进行拆解（反向工程）泄露，或产品的商业寿命短，抑或产品涉及一种生产工艺；
+申请专利成本太高。
+```
+
+## 参考示例
+
+### 预防商业秘密非法泄露
+
+员工
+
+> 应通过劳动合同禁止员工在工作范围以外使用或披露公司的保密信息，并且禁止员工使用或披露在上一份工作期间掌握的保密信息。应通过培训让员工了解什么是公司认为的保密信息，员工为保守秘密应该怎么做。
+
+记住，员工是公司商业秘密损失的最大源头。
+
+离职员工
+
+> 每当员工更换工作，员工在过去获得的部分知识会不可避免地流向新雇主。跟员工签合同，禁止其在离职后参与竞争或招揽公司客户的行为在有些司法管辖区合法，有些司法管辖区非法，建议咨询律师。
+
+商业伙伴
+
+> 在业务往来中，要记住与公司的每个合作伙伴和了解公司商业秘密者签订保密协议。
+
+## 参考
+
+
